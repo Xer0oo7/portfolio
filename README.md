@@ -11,9 +11,9 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 - **Hosting:** Vercel  
 
 ## ✨ Features  
-✅ **Dark Space/Galaxy Theme** 🌠  
+ 
 ✅ **Smooth Scroll & Hover Effects** 🎨  
-✅ **Twinkling Animations** ✨  
+  
 ✅ **Interactive Navigation & Contact Section** 📩  
 
 ## 📂 Setup & Usage  
